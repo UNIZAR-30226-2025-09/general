@@ -22,6 +22,7 @@ Funcionalidades Reproductor de Música (Spotify)
 - Sugerir canciones según preferencias
 - Ver Lyrics canciones (se puede valorar)
 - Cambiar canciones
+- Registrarse para optar a más funcionalidades (compartir canciones con amigos, ...)
 ...
 
 Funcionalidades nuevas/optaticas
