@@ -10,9 +10,7 @@ David Hudrea
 Mario Caudevila
 Marcos Galán
 
-Tecnologias a usar
-Frontend: React, Tailwind ...
-Backend: Springboot (servlets), JS (node.js) ...
+Aplicación a desarrollar: Reproductor de música (Spotify)
 
 Funcionalidades Reproductor de Música (Spotify)
 - Reproducir musica (pausar, siguiente, anterior, ...)
@@ -32,3 +30,23 @@ Funcionalidades nuevas/optaticas
 - Donaciones a artista
 - Modo fiesta interactivo: los amigos pueden unirse a una sala virtual y votar por la siguiente canción (puede estar guapo)
 ...
+
+Cliente 1: Web <br>
+
+Tecnologias a usar
+Frontend: React, Tailwind ...
+Backend: Springboot (servlets), JS (node.js) ...
+
+Cliente 2: Escritorio <br>
+
+Tecnologias a usar
+Frontend: React, Tailwind ...
+Backend: Springboot (servlets), JS (node.js) ...
+
+Tecnologías para el backend: <br>
+- API
+
+Nota máxima: <br>
+4 sobre 4?
+
+
