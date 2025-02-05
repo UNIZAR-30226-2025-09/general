@@ -20,16 +20,13 @@ Funcionalidades Reproductor de Música (Spotify)
 - Sugerir canciones según preferencias
 - Cambiar canciones
 - Registrarse para optar a más funcionalidades (compartir canciones con amigos, suscripción gratis/premium, ...)
-...
 
 Funcionalidades nuevas/optaticas
-- Comentar playlist
-- Ver Lyrics canciones
-- Valoracion canciones/puntuacion (feedback)
-- Contactar artista
-- Donaciones a artista
-- Modo fiesta interactivo: los amigos pueden unirse a una sala virtual y votar por la siguiente canción
-...
+- Comentar playlist publicas (pueden ser privadas y estar ocultas)
+- ¿ Ver Lyrics canciones ?
+- Valoracion canciones del 1 al 10 (media cancion)
+- Chatear con los usuarios (seguidores y seguidos) + Compartir canciones en la propia app por md (fuera de la app mediante LINK)
+- Modo Fiesta Interactivo: los amigos se unen a una sala virtual donde cada ronda ven 4 canciones en pantalla y votan por una, la más votada se reproduce.
 
 Cliente 1: Web <br>
 
