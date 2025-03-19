@@ -1,0 +1,83 @@
+# Prueba de la funcionalidad de registro 
+	Pasos:
+		- Pulsamos en comenzar
+		- Pulsamos en registrarse en Vibra
+		- Completamos los datos (nombre, correo y contraseña)
+	
+	Resultados:
+		- En caso de que no haya ningun usuario registrado con ese correo
+		se mostrara un mensaje de que nos hemos podido registrar con exito
+		- En caso de que alguno de los datos del formulario no se complete
+		o ya exista una cuenta asociado al correo introducido, se mostrara
+		un mensaje de error
+
+
+# Prueba de funcionalidad de inicio de sesion
+	Precondicion: 
+		- El usuario tiene que haberse registrado previamente
+	Pasos:
+		- Pulsamos en comenzar
+		- Introducimos el correo y la contraseña
+		- Pulsamos en iniciar sesion
+	Resultados:
+		- Muestra un mensaje de inicio de sesión exitoso y accede
+		a la pantalla del menu principal
+
+# Prueba de compra de plan premium
+	Precondicion
+		- El usuario tiene que haberse registrado previamente
+		- La cuenta del usuario tiene que ser gratuita
+	Pasos:
+		- Pulsamos en comenzar
+		- Introducimos el correo y la contraseña
+		- Pulsamos en iniciar sesion
+		- Pulsamos en el icono de usuario del menu
+		- Pulsamos en la parte de ajustes del desplegable
+		- Pulsamos en la opción de seleccionar plan
+		- Seleccionamos el plan premium
+		- Introducimos los datos bancarios y pulsamos en aceptar
+	Resultado:
+		- La cuenta del usuario es ahora premium
+
+# Editar informacion del usuario (contraseña y demas)
+	Precondicion:
+		- El usuario tiene que haber iniciado sesion
+	Pasos:
+	Resultado:
+# Reproducir una cancion (pausar y reanudar)
+	Precondicion:
+		El usuario tiene que haber iniciado sesion
+	Pasos:
+		- Seleccionamos una cancion de las que aparecen en la parte
+		superior del menu principal
+		- Pulsamos en el icono de play
+		- Pulsamos en el icono de pause
+		- Volvemos a pulsar en el icono de play
+	Resultado:
+		- Se reproduce la cancion tras pulsar play, al pulsar pause se 
+		detiene y al pulsar play de nuevo se reanuda desde la parte en 
+		la que se habia detenido
+
+# Ordenar las canciones de una lista de reproduccion (segun los criterios)
+	Precondicion:
+		- El usuario tiene que haber iniciado sesion
+	Pasos:
+		- Seleccionamos una de las playlists que nos recomiendan
+		- Pulsamos en el boton de color azul que tiene el texto titulo
+		- Se mostrara un desplegable con los criterios de ordenacion
+		- Seleccionamos uno de los criterios
+	Resultado:
+		- Las canciones de la lista de reproduccion se ordenan
+		segun el criterio seleccionado
+
+# Buscar una cancion en una lista de reproducción usando la barra de busqueda
+	Precondicion:
+                - El usuario tiene que haber iniciado sesion
+        Pasos:
+                - Seleccionamos una de las playlists que nos recomiendan
+                - Pulsamos en el icono de la lupa
+                - Escribimos el nombre de una canciond de la lista en la 
+		barra de busqueda que habra aparecido
+        Resultado:
+                - Se mostraran todas las canciones presentes en la lista de
+		reproduccion que 
